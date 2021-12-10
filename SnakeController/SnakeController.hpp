@@ -33,6 +33,7 @@ public:
     void receive(std::unique_ptr<Event> e) override;
     void receiveTry1(std::unique_ptr<Event> &e);
     void receiveFood(std::unique_ptr<Event>& e);
+    //a
 
 private:
     struct Segment
