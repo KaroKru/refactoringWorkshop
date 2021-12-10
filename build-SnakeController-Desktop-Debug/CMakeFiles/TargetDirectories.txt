@@ -1,0 +1,5 @@
+/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug/CMakeFiles/test.dir
+/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug/CMakeFiles/SnakeController_UT.dir
+/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug/CMakeFiles/SnakeController.dir

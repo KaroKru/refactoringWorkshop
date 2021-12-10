@@ -1,0 +1,64 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SnakeController::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnakeController-Debug-c629d11bdc7eae8e918c.json",
+					"name" : "SnakeController",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SnakeController_UT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnakeController_UT-Debug-30f84787d37302158f95.json",
+					"name" : "SnakeController_UT",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/paro/Pulpit/wcopy/build-SnakeController-Desktop-Debug",
+		"source" : "/home/paro/Pulpit/wcopy/SnakeController"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
